@@ -11,7 +11,7 @@ namespace CSSForms
 		{
 			InitializeComponent();
 
-			MainPage = new MainPage();
+            MainPage = new Options();
 		}
 
 		protected override void OnStart ()
